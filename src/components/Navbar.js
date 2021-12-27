@@ -5,7 +5,7 @@ class Navbar extends React.Component {
             <>
                 <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
                     <div className="container-fluid">
-                        <a className="navbar-brand" href="#"><i class="fas fa-cart-plus"></i> Shop Mobiles </a>
+                        <a className="navbar-brand" href="#"><i class="fas fa-cart-plus"></i> MyCart </a>
                     </div>
                 </nav>
             </>
